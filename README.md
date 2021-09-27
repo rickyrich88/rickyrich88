@@ -3,6 +3,7 @@
 Richard Shin
 
 - University of the Pacific Class of 2023 MSCS
+- University of the Pacific Class of 2021 BSCS
 - Graduate Teaching Assistant
 - Skilled in C++, Java, HTML, Javascript, PHP, MySQL
 - Interested in data science, VR, AI
