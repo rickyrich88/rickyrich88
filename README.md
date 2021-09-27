@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Richard Shin
+
+- University of the Pacific Class of 2023 MSCS
+- Graduate Teaching Assistant
+- Skilled in C++, Java, HTML, Javascript, PHP, MySQL
+- Interested in data science, VR, AI
+- Hobbies:
+  - Bowling
+  - Playing guitar, clarinet
+  - Translating comics
 <!--
 **rickyrich88/rickyrich88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
